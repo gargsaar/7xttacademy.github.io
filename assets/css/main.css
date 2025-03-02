@@ -1692,8 +1692,9 @@ section,
   align-items: center;
 }
 
-
-
+/*--------------------------------------------------------------
+# chefs section img
+--------------------------------------------------------------*/
 .member-img img {
   width: 100%; /* Make images responsive */
   height: 300px; /* Set a consistent height */
